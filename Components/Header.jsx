@@ -9,6 +9,7 @@ const Header = () => {
         <Image
           src={assets.logo}
           width={180}
+          
           className="cursor-pointer w-[130px] sm:w-auto"
           alt="logo"
         />
